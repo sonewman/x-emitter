@@ -1,0 +1,10 @@
+{
+	"name" : "x-emitter",
+	"dependencies" : {
+		"inherits": "~2.0.0"
+	},
+  "devDependencies": {
+    "tape": "~1.0.4",
+    "sinon": "~1.7.2"
+  }
+}
